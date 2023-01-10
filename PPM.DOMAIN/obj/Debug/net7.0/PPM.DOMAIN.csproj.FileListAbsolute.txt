@@ -1,0 +1,15 @@
+C:\Users\SMandlole\PPM-3\PPM.DOMAIN\bin\Debug\net7.0\PPM.DOMAIN.deps.json
+C:\Users\SMandlole\PPM-3\PPM.DOMAIN\bin\Debug\net7.0\PPM.DOMAIN.dll
+C:\Users\SMandlole\PPM-3\PPM.DOMAIN\bin\Debug\net7.0\PPM.DOMAIN.pdb
+C:\Users\SMandlole\PPM-3\PPM.DOMAIN\bin\Debug\net7.0\PPM.MODEL.dll
+C:\Users\SMandlole\PPM-3\PPM.DOMAIN\bin\Debug\net7.0\PPM.MODEL.pdb
+C:\Users\SMandlole\PPM-3\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.csproj.AssemblyReference.cache
+C:\Users\SMandlole\PPM-3\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMandlole\PPM-3\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\SMandlole\PPM-3\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.AssemblyInfo.cs
+C:\Users\SMandlole\PPM-3\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\SMandlole\PPM-3\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.csproj.CopyComplete
+C:\Users\SMandlole\PPM-3\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.dll
+C:\Users\SMandlole\PPM-3\PPM.DOMAIN\obj\Debug\net7.0\refint\PPM.DOMAIN.dll
+C:\Users\SMandlole\PPM-3\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.pdb
+C:\Users\SMandlole\PPM-3\PPM.DOMAIN\obj\Debug\net7.0\ref\PPM.DOMAIN.dll
